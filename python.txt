@@ -1,0 +1,7 @@
+python 镜像链接
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+
+天气信息接口 内容详解
+https://github.com/jokermonn/-Api/blob/master/CenterWeather.md
+
+
